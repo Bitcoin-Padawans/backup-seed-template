@@ -8,6 +8,9 @@ A página `index.html` é um **modelo de cartão de backup de seed**. Ela existe
 
 Sinta-se à vontade para copiar, adaptar e imprimir este template nas suas próprias iniciativas de educação em Bitcoin.
 
+Apoio:  
+<a href="https://github.com/Code-Forge-Builders"><img src="https://avatars.githubusercontent.com/u/169398236?v=4" alt="Logo da empresa" width="40" /></a>
+
 Licença: [MIT](./LICENSE)
 
 Sinta-se livre para imprimir, distribuir e adaptar para seus próprios objetivos educacionais sobre Bitcoin.
