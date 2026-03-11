@@ -7,3 +7,7 @@ O template faz parte do projeto **Bitcoin Padawans**, uma iniciativa de **educa�
 A página `index.html` é um **modelo de cartão de backup de seed**. Ela existe para que **qualquer pessoa possa acessar o arquivo, imprimir seus próprios cartões e usá-los no aprendizado e autocustódia**, rumo a se tornar um verdadeiro **Mestre Jedi Bitcoin**, e não apenas um padawan.
 
 Sinta-se à vontade para copiar, adaptar e imprimir este template nas suas próprias iniciativas de educação em Bitcoin.
+
+Licença: [MIT](./LICENSE)
+
+Sinta-se livre para imprimir, distribuir e adaptar para seus próprios objetivos educacionais sobre Bitcoin.
